@@ -103,10 +103,10 @@ A) ○     B) ●     C) □     D) ■
 A) ◆     B) ◆◆     C) ◆◆◆     D) ■■■
 ```
 
-**Item 10.** ▲ is to ■ as ■ is to: (▲ has three sides and ■ four; ⬟ is a five-sided shape and ⬢ a six-sided one.)
+**Item 10.** ■□□ is to □□■ as ●○○ is to:
 
 ```
-A) ▲     B) ●     C) ⬟     D) ⬢
+A) ●○○     B) ○●○     C) ○○●     D) ●●○
 ```
 
 **Item 11.** ○● is to ●○ as □■ is to:
@@ -142,7 +142,7 @@ A) ■□□□     B) ■■□□     C) ■■■□     D) □■■□
 
 **Item 9: C) ◆◆◆.** One shape becomes three of the same shape. *Why not D:* three is right, but the squares belong to the first pair; the change is applied to the diamond.
 
-**Item 10: C) ⬟.** The shape gains one side: three sides become four, so four sides become five. *Why not D:* six sides would be a jump of two.
+**Item 10: C) ○○●.** The filled symbol moves from the first position to the last, and the rest stay hollow. Apply the same move to ●○○ and you get ○○●. *Why not B:* that moves it only one place.
 
 **Item 11: B) ■□.** The two symbols swap places: hollow then filled becomes filled then hollow. Apply the same swap to □■ and you get ■□.
 

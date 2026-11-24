@@ -74,6 +74,8 @@ Talogy's scoring guide describes four layers, each built on the one before:
 | Competencies | Outcome areas built from several behaviours over time | Learning Agility |
 | Job models | A set of 5 to 9 key competencies for a type of job | A fit score from 1 to 99 |
 
+Talogy says each trait percentile compares you with others in your country of employment, and that a score of 50 indicates an average degree of motivation.
+
 Caliper's site lists 280 behaviours and 56 competencies, and its selection report gives fit scores for 52 validated job models, 11 of them for sales roles.
 
 Talogy's key tip for anyone reading a report is the one to remember: **never interpret a single trait on its own.** Traits always combine to shape behaviour. More on reading the numbers in [How scoring works](scoring.md).

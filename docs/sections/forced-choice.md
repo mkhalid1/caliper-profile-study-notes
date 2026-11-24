@@ -112,7 +112,7 @@ D) I like learning languages.
 
 A) I stay composed when things go wrong.
 B) I get flustered when things go wrong.
-C) I love chatting with strangers.
+C) I enjoy cooking.
 D) I like puzzles.
 
 **Item 7.** In a set, none of the four statements describes you well. What should you do?
@@ -152,7 +152,7 @@ D) Sets where you hesitated are thrown away.
 
 **Item 5: Most A, least C.** Both A and B are true of Ana, but the description says accuracy is what she is known for, so A is the stronger fit. Skipping the fine print (C) is the opposite of checking every figure twice. This is the typical forced-choice moment: two true statements, and you pick the one that is more true.
 
-**Item 6: Most A, least B.** Staying calm in a crisis is A, and getting flustered (B) is its direct opposite. *Why not C as least:* Leo is not chatty, but he does not mind small talk, so C fits him less well but is not contradicted. B is the clearer mismatch.
+**Item 6: Most A, least B.** Staying calm in a crisis is A, and getting flustered (B) is its direct opposite. *Why not C or D as least:* the description says nothing about cooking or puzzles, so neither is contradicted. B is the only statement his description rules out.
 
 **Item 7: B.** The format asks which statement describes you best and which least, so the choice is relative. Small differences are fine. *Why not D:* choosing for the employer gives a false picture, which is exactly what the format is built to resist.
 
