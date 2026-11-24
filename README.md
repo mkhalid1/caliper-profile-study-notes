@@ -1,12 +1,12 @@
 # Caliper Profile Study Notes
 
-A free, complete guide to the Caliper Profile (now Talogy Caliper): how the 98-question, untimed assessment works, how to answer its forced-choice and Likert items honestly and consistently, a clear method for the abstract reasoning section, all 22 traits explained, how the 1 to 99 job-fit score is read, and plans for a week or a weekend. Includes 52 original practice items and worked examples with full explanations, and a page for sales candidates, the audience Caliper was first built for. Facts about the assessment come only from Caliper's and Talogy's own pages, each one [cited](docs/sources.md).
+A free, complete guide to the Caliper Profile (now Talogy Caliper): how the 98-question, untimed assessment works, how to answer its forced-choice and Likert items honestly and consistently, a clear method for the abstract reasoning section, all 22 traits explained, how the 1 to 99 job-fit score is read, and plans for a week or a weekend. Includes 26 original practice items and worked examples with full explanations, and a page for sales candidates, the audience Caliper was first built for. Facts about the assessment come only from Caliper's and Talogy's own pages, each one [cited](docs/sources.md).
 
 Want to try the format first? Take the [free Caliper Profile practice test on PrepClubs](https://prepclubs.com/free-practice-tests/caliper-profile?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=caliper-profile), which gives feedback on every answer, or the shorter [15-minute diagnostic](docs/diagnostic.md) in this repo.
 
 ## Start here
 
-1. **See which format needs work.** Take the [15-minute diagnostic](docs/diagnostic.md). It has three items for each question type.
+1. **See which format needs work.** Take the [15-minute diagnostic](docs/diagnostic.md). It has two items for each question type.
 2. **Work on the weakest one first.** Open its guide below, read the method and the traps, then do its worked examples or practice items.
 3. **Follow a plan.** Use the [7-day plan](docs/study-plans.md#7-day-plan), or the [2-day plan](docs/study-plans.md#2-day-plan) if your link has already arrived.
 
@@ -35,7 +35,7 @@ Sources: [Caliper Profile](https://calipercorp.com/caliper-profile/), [Caliper F
 | Likert | Rate your agreement with a statement from 1 to 7 | No | [Likert items](docs/sections/likert.md) |
 | Abstract reasoning | Solve number patterns and shape analogies | Yes | [Abstract reasoning](docs/sections/abstract-reasoning.md) |
 
-Every guide has the same parts: what it measures, how the questions look, a step-by-step method, the traps, timing advice, 10 to 12 original items with explanations, and a score table. The [traits guide](docs/traits.md) explains what your answers feed into.
+Every guide has the same parts: what it measures, how the questions look, a step-by-step method, the traps, timing advice, 5 original items with explanations, and a score table. The [traits guide](docs/traits.md) explains what your answers feed into.
 
 ## Contents
 
@@ -163,7 +163,7 @@ Every guide has the same parts: what it measures, how the questions look, a step
 
 ## About the practice items
 
-All 52 items (43 in the guides and 9 in the diagnostic) are original, written for these notes. None are taken from the Caliper Profile, from Caliper or Talogy materials, or from any prep site. The personality items are worked examples about described people, built to teach the format, never "ideal answers" for a job: the real profile has no right answers to them, and Talogy says it is designed to resist faking. The reasoning items follow the two types Talogy names, number patterns and shape analogies.
+All 26 items (20 in the guides and 6 in the diagnostic) are original, written for these notes. None are taken from the Caliper Profile, from Caliper or Talogy materials, or from any prep site. The personality items are worked examples about described people, built to teach the format, never "ideal answers" for a job: the real profile has no right answers to them, and Talogy says it is designed to resist faking. The reasoning items follow the two types Talogy names, number patterns and shape analogies.
 
 ## Contributing
 

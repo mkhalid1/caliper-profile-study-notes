@@ -15,7 +15,7 @@ About 20 to 40 minutes a day.
 | 1 | Baseline | Read [the Caliper Profile explained](test-overview.md). Take the [diagnostic](diagnostic.md). |
 | 2 | Forced choice | Read the [forced-choice guide](sections/forced-choice.md) and do its worked examples. Write one sentence describing yourself at work on a typical week. That sentence is your frame for the whole test. |
 | 3 | Likert items | Read the [Likert guide](sections/likert.md) and do its examples. Note which trap caught you: negatives, the middle point or drifting frames. |
-| 4 | Abstract reasoning | Read the [abstract reasoning guide](sections/abstract-reasoning.md). Do the 12 items, then learn the number-pattern checklist. |
+| 4 | Abstract reasoning | Read the [abstract reasoning guide](sections/abstract-reasoning.md). Do the 5 items, then learn the number-pattern checklist. |
 | 5 | The traits and the report | Read the [traits guide](traits.md) and [How scoring works](scoring.md). Do the trait items. This is for understanding, not for steering your answers. |
 | 6 | Full practice run | Take a longer practice run, such as the [free Caliper Profile practice test on PrepClubs](https://prepclubs.com/free-practice-tests/caliper-profile?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=caliper-profile), in one sitting. Notice when you start to tire and your answers get careless. |
 | 7 | Rest and plan the session | Redo any reasoning items you missed. Read the [test-day checklist](test-day-checklist.md) and book a quiet 75-minute slot. |
@@ -40,7 +40,7 @@ For when the link has arrived and the deadline is close.
 |---|---|---|
 | 1 | 15 min | Take the [diagnostic](diagnostic.md). |
 | 2 | 20 min | Read "How the questions look", the method and the traps in the [forced-choice](sections/forced-choice.md) and [Likert](sections/likert.md) guides. |
-| 3 | 25 min | Read the [abstract reasoning guide](sections/abstract-reasoning.md) and do its 12 items. |
+| 3 | 25 min | Read the [abstract reasoning guide](sections/abstract-reasoning.md) and do its 5 items. |
 | 4 | 10 min | Skim the [traits guide](traits.md) so the report language is familiar. |
 
 ### Day 2: take the test

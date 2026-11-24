@@ -64,103 +64,61 @@ The profile is untimed, so you can take the time each puzzle needs. That does no
 
 ## Practice items
 
-These 12 items are original, written for these notes. They are not taken from the Caliper Profile or any Talogy material.
+These 5 items are original, written for these notes. They are not taken from the Caliper Profile or any Talogy material.
 
 ### Number patterns
 
-**Item 1.** What comes next? 5, 9, 13, 17, ?
-A) 19  B) 20  C) 21  D) 23
-
-**Item 2.** What comes next? 3, 6, 12, 24, ?
-A) 30  B) 36  C) 42  D) 48
-
-**Item 3.** What comes next? 2, 5, 10, 17, 26, ?
+**Item 1.** What comes next? 2, 5, 10, 17, 26, ?
 A) 33  B) 35  C) 37  D) 39
 
-**Item 4.** What comes next? 81, 27, 9, 3, ?
-A) 0  B) 1  C) 2  D) 3
-
-**Item 5.** What comes next? 1, 1, 2, 3, 5, 8, ?
+**Item 2.** What comes next? 1, 1, 2, 3, 5, 8, ?
 A) 11  B) 12  C) 13  D) 16
 
-**Item 6.** What comes next? 4, 12, 8, 16, 12, ?
+**Item 3.** What comes next? 4, 12, 8, 16, 12, ?
 A) 8  B) 16  C) 20  D) 24
-
-**Item 7.** What comes next? 100, 91, 83, 76, 70, ?
-A) 64  B) 65  C) 66  D) 67
 
 ### Shape analogies
 
-**Item 8.** △ is to ▲ as ○ is to:
+**Item 4.** △ is to ▲ as ○ is to:
 
 ```
 A) ○     B) ●     C) □     D) ■
 ```
 
-**Item 9.** ■ is to ■■■ as ◆ is to:
-
-```
-A) ◆     B) ◆◆     C) ◆◆◆     D) ■■■
-```
-
-**Item 10.** ■□□ is to □□■ as ●○○ is to:
+**Item 5.** ■□□ is to □□■ as ●○○ is to:
 
 ```
 A) ●○○     B) ○●○     C) ○○●     D) ●●○
 ```
 
-**Item 11.** ○● is to ●○ as □■ is to:
-
-```
-A) □■     B) ■□     C) ■■     D) □□
-```
-
-**Item 12.** ●○○ is to ●●○ as ■□□□ is to:
-
-```
-A) ■□□□     B) ■■□□     C) ■■■□     D) □■■□
-```
-
 <details>
-<summary>Answers and explanations, items 1 to 12</summary>
+<summary>Answers and explanations, items 1 to 5</summary>
 
-**Item 1: C) 21.** The step is +4 each time: 17 + 4 = 21.
+**Item 1: C) 37.** The steps are +3, +5, +7, +9, rising by 2, so the next step is +11: 26 + 11 = 37.
 
-**Item 2: D) 48.** Each number doubles: 24 × 2 = 48.
+**Item 2: C) 13.** Each number is the sum of the two before it: 5 + 8 = 13.
 
-**Item 3: C) 37.** The steps are +3, +5, +7, +9, rising by 2, so the next step is +11: 26 + 11 = 37.
+**Item 3: C) 20.** The steps alternate +8 and −4: 4 (+8) 12 (−4) 8 (+8) 16 (−4) 12 (+8) 20.
 
-**Item 4: B) 1.** Each number is divided by 3: 3 ÷ 3 = 1.
+**Item 4: B) ●.** The hollow triangle becomes a filled triangle, so the hollow circle becomes a filled circle. Only the fill changes.
 
-**Item 5: C) 13.** Each number is the sum of the two before it: 5 + 8 = 13.
-
-**Item 6: C) 20.** The steps alternate +8 and −4: 4 (+8) 12 (−4) 8 (+8) 16 (−4) 12 (+8) 20.
-
-**Item 7: B) 65.** The steps shrink by one: −9, −8, −7, −6, so the next is −5: 70 − 5 = 65.
-
-**Item 8: B) ●.** The hollow triangle becomes a filled triangle, so the hollow circle becomes a filled circle. Only the fill changes.
-
-**Item 9: C) ◆◆◆.** One shape becomes three of the same shape. *Why not D:* three is right, but the squares belong to the first pair; the change is applied to the diamond.
-
-**Item 10: C) ○○●.** The filled symbol moves from the first position to the last, and the rest stay hollow. Apply the same move to ●○○ and you get ○○●. *Why not B:* that moves it only one place.
-
-**Item 11: B) ■□.** The two symbols swap places: hollow then filled becomes filled then hollow. Apply the same swap to □■ and you get ■□.
-
-**Item 12: B) ■■□□.** One more symbol from the left becomes filled. In the first pair, one filled becomes two filled; so one filled square becomes two filled squares, with the row length unchanged.
+**Item 5: C) ○○●.** The filled symbol moves from the first position to the last, and the rest stay hollow. Apply the same move to ●○○ and you get ○○●. *Why not B:* that moves it only one place.
 
 </details>
 
 ## Score yourself
 
-| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Answer | C | D | C | B | C | C | B | B | C | C | B | B |
+| Item | 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|---|
+| Answer | C | C | C | B | C |
 
-- **11 to 12:** reasoning is a strength. A quick warm-up before the real test is enough.
-- **8 to 10:** look at which type you missed. For number patterns, learn the checklist until you can run it from memory. For shapes, practise naming the change in one sentence.
-- **7 or fewer:** redo the items slowly with the method open beside you, then try them again a day later without it.
+- **5:** reasoning is a strength. A quick warm-up before the real test is enough.
+- **4:** look at which type you missed. For number patterns, learn the checklist until you can run it from memory. For shapes, practise naming the change in one sentence.
+- **3 or fewer:** redo the items slowly with the method open beside you, then try them again a day later without it.
 
 Practice scores are a guide to where to work, not a prediction of your Caliper result. Talogy does not publish how raw answers convert to the Abstract Reasoning percentile.
+
+Want more? The free timed Caliper Profile practice test on PrepClubs has the full 98 questions, scored by section: [prepclubs.com/free-practice-tests/caliper-profile](https://prepclubs.com/free-practice-tests/caliper-profile?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=caliper-profile)
 
 ## Next step
 

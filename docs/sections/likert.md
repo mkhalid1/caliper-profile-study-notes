@@ -49,76 +49,53 @@ Likert items are fast: read, decide the side, decide the strength. The profile i
 
 ## Practice items
 
-These 10 worked examples are original, written for these notes. They are not taken from the Caliper Profile. On the real test the right rating is whatever is true of you. Here, each item describes a person, and the answer is the rating that is honest for **that person**, using the scale above and only what the description says.
+These 5 worked examples are original, written for these notes. They are not taken from the Caliper Profile. On the real test the right rating is whatever is true of you. Here, each item describes a person, and the answer is the rating that is honest for **that person**, using the scale above and only what the description says.
 
-For items 1 to 9, choose: **A)** 1 or 2, **B)** 3, 4 or 5, **C)** 6 or 7.
+For items 1 to 5, choose: **A)** 1 or 2, **B)** 3, 4 or 5, **C)** 6 or 7.
 
 **Item 1.** Jo double-checks every travel booking and files her receipts by month.
 *"I pay close attention to details."*
 
-**Item 2.** Kai gets bored doing the same task two days running and keeps asking for new projects.
-*"I am happiest when my work is the same every day."*
-
-**Item 3.** Mei sometimes enjoys leading a meeting and sometimes prefers to sit back. It depends on the topic.
+**Item 2.** Mei sometimes enjoys leading a meeting and sometimes prefers to sit back. It depends on the topic.
 *"I like taking charge of a group."*
 
-**Item 4.** Owen rarely worries about things outside his control and sleeps well before big presentations.
-*"I often worry about what might go wrong."*
-
-**Item 5.** Earlier, Nadia honestly rated *"I like to make decisions quickly"* as a 6.
+**Item 3.** Earlier, Nadia honestly rated *"I like to make decisions quickly"* as a 6.
 Later she sees: *"I prefer to take my time before deciding."*
 
-**Item 6.** Earlier, Pete honestly rated *"I enjoy meeting new people"* as a 2.
+**Item 4.** Earlier, Pete honestly rated *"I enjoy meeting new people"* as a 2.
 Later he sees: *"Networking events give me energy."*
 
-**Item 7.** Bea stays calm even when customers shout. Colleagues say they have never seen her lose her temper.
-*"I rarely lose my temper."*
-
-**Item 8.** Luis loves trying untested ideas and once left a steady job to join a new venture.
+**Item 5.** Luis loves trying untested ideas and once left a steady job to join a new venture.
 *"I am not comfortable taking risks."*
 
-**Item 9.** Rosa likes tidy systems at work, but she has no strong feelings either way about whether others follow them.
-*"It bothers me when colleagues ignore the agreed process."*
-
-**Item 10.** According to Talogy, what do the Likert items in the Caliper Profile measure?
-A) Personality traits  B) Arithmetic skill  C) Typing speed  D) Knowledge of the employer
-
 <details>
-<summary>Answers and explanations, items 1 to 10</summary>
+<summary>Answers and explanations, items 1 to 5</summary>
 
 **Item 1: C) 6 or 7.** Double-checking bookings and filing receipts by month are exactly what close attention to detail looks like.
 
-**Item 2: A) 1 or 2.** Kai is bored by repetition and wants new projects, the opposite of wanting the same work every day.
+**Item 2: B) 3, 4 or 5.** Mei is genuinely mixed: it depends on the topic. The middle of the scale is the honest place for that.
 
-**Item 3: B) 3, 4 or 5.** Mei is genuinely mixed: it depends on the topic. The middle of the scale is the honest place for that.
+**Item 3: A) 1 or 2.** Taking your time before deciding is the reverse of deciding quickly. If she agrees with the first, the consistent honest answer is to disagree with the second.
 
-**Item 4: A) 1 or 2.** Owen rarely worries, so he disagrees with "I often worry".
+**Item 4: A) 1 or 2.** Here the two statements point the **same** way: both are about enjoying meeting people. Pete disagreed with the first, so he should disagree with the second too. *Why not C:* that would contradict his earlier honest answer.
 
-**Item 5: A) 1 or 2.** Taking your time before deciding is the reverse of deciding quickly. If she agrees with the first, the consistent honest answer is to disagree with the second.
-
-**Item 6: A) 1 or 2.** Here the two statements point the **same** way: both are about enjoying meeting people. Pete disagreed with the first, so he should disagree with the second too. *Why not C:* that would contradict his earlier honest answer.
-
-**Item 7: C) 6 or 7.** "Rarely lose my temper" is true of Bea, so she agrees. The word "rarely" makes this a statement about being calm.
-
-**Item 8: A) 1 or 2.** The statement is negative: "not comfortable" with risk. Luis is very comfortable with risk, so he disagrees.
-
-**Item 9: B) 3, 4 or 5.** Rosa likes tidy systems herself, but the description says she has no strong feelings about whether others follow them. That points to the middle. *Why not C:* nothing says she is bothered when colleagues ignore a process.
-
-**Item 10: A) Personality traits.** Talogy says Likert items also measure personality traits. Only the abstract reasoning items have right answers.
+**Item 5: A) 1 or 2.** The statement is negative: "not comfortable" with risk. Luis is very comfortable with risk, so he disagrees.
 
 </details>
 
 ## Score yourself
 
-| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Answer | C | A | B | A | A | A | C | A | B | A |
+| Item | 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|---|
+| Answer | C | B | A | A | A |
 
-- **9 to 10:** you read statements carefully and keep a consistent frame. That is all the real test asks of you.
-- **6 to 8:** check items 6 to 8. Negatives and same-direction pairs are where careful readers still slip.
-- **5 or fewer:** reread the method, especially steps 1 and 3, and redo the items.
+- **5:** you read statements carefully and keep a consistent frame. That is all the real test asks of you.
+- **3 to 4:** check items 3 to 5. Negatives and same-direction pairs are where careful readers still slip.
+- **2 or fewer:** reread the method, especially steps 1 and 3, and redo the items.
 
 These are worked examples, not a personality score. On the real Caliper Profile there are no right answers to the personality items.
+
+Want more? The free timed Caliper Profile practice test on PrepClubs has the full 98 questions, scored by section: [prepclubs.com/free-practice-tests/caliper-profile](https://prepclubs.com/free-practice-tests/caliper-profile?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=caliper-profile)
 
 ## Next step
 

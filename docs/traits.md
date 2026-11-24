@@ -82,84 +82,56 @@ Talogy's key tip for anyone reading a report is the one to remember: **never int
 
 ## Practice items
 
-These 11 items check that you can read the traits the way a report describes them. They are original, written for these notes, and based only on the definitions above.
+These 5 items check that you can read the traits the way a report describes them. They are original, written for these notes, and based only on the definitions above.
 
-For items 1 to 9, choose the trait that best fits the description.
+For items 1 to 3, choose the trait that best fits the description.
 
-**Item 1.** Kim stays unconcerned about events she cannot control and does not dwell on what might go wrong.
-A) Stress Tolerance  B) Thoroughness  C) Sociability  D) Urgency
-
-**Item 2.** When a customer turns Raj down, he is not thrown by it and is ready for the next one.
+**Item 1.** When a customer turns Raj down, he is not thrown by it and is ready for the next one.
 A) Ego-Drive  B) Ego-Strength  C) Empathy  D) Energy
 
-**Item 3.** Tara gets real satisfaction from persuading a group to commit to her plan.
-A) Accommodation  B) Cautiousness  C) Ego-Drive  D) Level-Headedness
-
-**Item 4.** Ben wants to decide for himself how he will do his work.
+**Item 2.** Ben wants to decide for himself how he will do his work.
 A) External Structure  B) Self-Structure  C) Flexibility  D) Openness
 
-**Item 5.** Ines is comfortable working within established rules and a structured setting.
-A) External Structure  B) Risk-Taking  C) Idea Orientation  D) Gregariousness
-
-**Item 6.** Carl picks up on how people feel from small social cues.
-A) Sociability  B) Accommodation  C) Empathy  D) Assertiveness
-
-**Item 7.** Dana is driven to act quickly to get results straight away.
+**Item 3.** Dana is driven to act quickly to get results straight away.
 A) Energy  B) Urgency  C) Risk-Taking  D) Thoroughness
 
-**Item 8.** Omar is willing to take chances on initiatives nobody has tested.
-A) Cautiousness  B) Risk-Taking  C) Skepticism  D) Openness
-
-**Item 9.** Vera tends to question other people's motives and is wary of their intentions.
-A) Skepticism  B) Aggressiveness  C) Empathy  D) External Structure
-
-**Item 10.** According to Talogy, what does a trait score of 50 mean?
+**Item 4.** According to Talogy, what does a trait score of 50 mean?
 A) You answered half the questions correctly.
 B) An average degree of that motivation compared with others in your country of employment.
 C) You failed that trait.
 D) The trait could not be measured.
 
-**Item 11.** Which trait is measured with items that have right and wrong answers?
+**Item 5.** Which trait is measured with items that have right and wrong answers?
 A) Thoroughness  B) Level-Headedness  C) Abstract Reasoning  D) Idea Orientation
 
 <details>
-<summary>Answers and explanations, items 1 to 11</summary>
+<summary>Answers and explanations, items 1 to 5</summary>
 
-**Item 1: A) Stress Tolerance.** Staying unworried about things beyond your control is the definition. *Why not D:* Urgency is about acting fast, not about worry.
+**Item 1: B) Ego-Strength.** Handling rejection and criticism without being thrown. *Why not A:* Ego-Drive is about enjoying persuasion, not about bouncing back.
 
-**Item 2: B) Ego-Strength.** Handling rejection and criticism without being thrown. *Why not A:* Ego-Drive is about enjoying persuasion, not about bouncing back.
+**Item 2: B) Self-Structure.** Preferring to set your own work methods. *Why not A:* External Structure is about comfort with existing rules, which is close to the opposite.
 
-**Item 3: C) Ego-Drive.** Satisfaction from persuading others and winning their commitment.
+**Item 3: B) Urgency.** The drive to act quickly for immediate results. *Why not A:* Energy is about sustaining activity over long periods, not speed to results.
 
-**Item 4: B) Self-Structure.** Preferring to set your own work methods. *Why not A:* External Structure is about comfort with existing rules, which is close to the opposite.
+**Item 4: B.** Talogy says each trait is scored as a percentile against others in your country of employment, and 50 indicates an average degree of motivation. Personality traits are not pass or fail.
 
-**Item 5: A) External Structure.** Receptiveness to rules and a structured environment.
-
-**Item 6: C) Empathy.** Perceiving others' feelings and reading social cues. *Why not A:* Sociability is enjoying being with people, not reading them.
-
-**Item 7: B) Urgency.** The drive to act quickly for immediate results. *Why not A:* Energy is about sustaining activity over long periods, not speed to results.
-
-**Item 8: B) Risk-Taking.** Willingness to take chances on untested initiatives.
-
-**Item 9: A) Skepticism.** An inclination to doubt others' motives.
-
-**Item 10: B.** Talogy says each trait is scored as a percentile against others in your country of employment, and 50 indicates an average degree of motivation. Personality traits are not pass or fail.
-
-**Item 11: C) Abstract Reasoning.** Talogy says abstract reasoning items are the only ones with correct and incorrect answers.
+**Item 5: C) Abstract Reasoning.** Talogy says abstract reasoning items are the only ones with correct and incorrect answers.
 
 </details>
 
 ## Score yourself
 
-| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| Answer | A | B | C | B | A | C | B | B | A | B | C |
+| Item | 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|---|
+| Answer | B | B | B | B | C |
 
-- **10 to 11:** you can read a Caliper report. If an employer shares yours, you will be able to discuss it with confidence.
-- **7 to 9:** the pairs that trip people up are Ego-Drive and Ego-Strength, Self-Structure and External Structure, and Urgency and Energy. Reread those rows.
-- **6 or fewer:** read the tables once more, then redo the items.
+- **5:** you can read a Caliper report. If an employer shares yours, you will be able to discuss it with confidence.
+- **3 to 4:** the pairs that trip people up are Ego-Drive and Ego-Strength, Self-Structure and External Structure, and Urgency and Energy. Reread those rows.
+- **2 or fewer:** read the tables once more, then redo the items.
 
 Knowing the traits is for understanding your report, not for steering your answers. The personality items still have no right answers.
+
+Want more? The free timed Caliper Profile practice test on PrepClubs has the full 98 questions, scored by section: [prepclubs.com/free-practice-tests/caliper-profile](https://prepclubs.com/free-practice-tests/caliper-profile?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=caliper-profile)
 
 ---
 
