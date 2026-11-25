@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [The Caliper Profile explained](test-overview.md) · Next: [Forced choice](sections/forced-choice.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [The Caliper Profile explained](test-overview.md) · Next: [Forced choice](sections/forced-choice.md)
+<!-- /nav:top -->
 
 # 15-minute diagnostic
 
@@ -82,4 +84,6 @@ Then pick a plan: the [7-day plan](study-plans.md#7-day-plan) if you have a week
 
 ---
 
-<!-- nav:bottom -->← Previous: [The Caliper Profile explained](test-overview.md) | Next: [Forced choice](sections/forced-choice.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [The Caliper Profile explained](test-overview.md) | Next: [Forced choice](sections/forced-choice.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

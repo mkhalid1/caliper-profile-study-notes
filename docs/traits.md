@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [Abstract reasoning](sections/abstract-reasoning.md) · Next: [How Caliper Profile scoring works](scoring.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [Abstract reasoning](sections/abstract-reasoning.md) · Next: [How Caliper Profile scoring works](scoring.md)
+<!-- /nav:top -->
 
 # The Caliper traits
 
@@ -135,4 +137,6 @@ Want more? The free timed Caliper Profile practice test on PrepClubs has the ful
 
 ---
 
-<!-- nav:bottom -->← Previous: [Abstract reasoning](sections/abstract-reasoning.md) | Next: [How Caliper Profile scoring works](scoring.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Abstract reasoning](sections/abstract-reasoning.md) | Next: [How Caliper Profile scoring works](scoring.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

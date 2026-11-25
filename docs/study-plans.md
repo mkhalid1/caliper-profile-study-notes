@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [How Caliper Profile scoring works](scoring.md) · Next: [For sales candidates](sales-candidates.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [How Caliper Profile scoring works](scoring.md) · Next: [For sales candidates](sales-candidates.md)
+<!-- /nav:top -->
 
 # Study plans
 
@@ -62,4 +64,6 @@ If you only have one evening, do blocks 1 and 3 of day 1, read the checklist, an
 
 ---
 
-<!-- nav:bottom -->← Previous: [How Caliper Profile scoring works](scoring.md) | Next: [For sales candidates](sales-candidates.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [How Caliper Profile scoring works](scoring.md) | Next: [For sales candidates](sales-candidates.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

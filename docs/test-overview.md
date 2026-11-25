@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [Caliper Profile Study Notes](../README.md) · Next: [15-minute diagnostic](diagnostic.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [Caliper Profile Study Notes](../README.md) · Next: [15-minute diagnostic](diagnostic.md)
+<!-- /nav:top -->
 
 # The Caliper Profile explained
 
@@ -64,4 +66,6 @@ The personality sections reward honest, consistent answers, not preparation. Wha
 
 ---
 
-<!-- nav:bottom -->← Previous: [Caliper Profile Study Notes](../README.md) | Next: [15-minute diagnostic](diagnostic.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Caliper Profile Study Notes](../README.md) | Next: [15-minute diagnostic](diagnostic.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

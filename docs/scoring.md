@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [The Caliper traits](traits.md) · Next: [Study plans](study-plans.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [The Caliper traits](traits.md) · Next: [Study plans](study-plans.md)
+<!-- /nav:top -->
 
 # How Caliper Profile scoring works
 
@@ -81,4 +83,6 @@ What you control is accuracy. An honest, consistent profile gives a fit score th
 
 ---
 
-<!-- nav:bottom -->← Previous: [The Caliper traits](traits.md) | Next: [Study plans](study-plans.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [The Caliper traits](traits.md) | Next: [Study plans](study-plans.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

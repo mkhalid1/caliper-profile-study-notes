@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Likert items](likert.md) · Next: [The Caliper traits](../traits.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Likert items](likert.md) · Next: [The Caliper traits](../traits.md)
+<!-- /nav:top -->
 
 # Abstract reasoning
 
@@ -126,4 +128,6 @@ Try reasoning items after a long block of personality questions, the way they fe
 
 ---
 
-<!-- nav:bottom -->← Previous: [Likert items](likert.md) | Next: [The Caliper traits](../traits.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Likert items](likert.md) | Next: [The Caliper traits](../traits.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

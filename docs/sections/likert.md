@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Forced choice](forced-choice.md) · Next: [Abstract reasoning](abstract-reasoning.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Forced choice](forced-choice.md) · Next: [Abstract reasoning](abstract-reasoning.md)
+<!-- /nav:top -->
 
 # Likert items
 
@@ -103,4 +105,6 @@ Rating dozens of statements in a row is tiring, which is when frames drift and n
 
 ---
 
-<!-- nav:bottom -->← Previous: [Forced choice](forced-choice.md) | Next: [Abstract reasoning](abstract-reasoning.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Forced choice](forced-choice.md) | Next: [Abstract reasoning](abstract-reasoning.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

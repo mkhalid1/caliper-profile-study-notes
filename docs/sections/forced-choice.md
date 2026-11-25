@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [15-minute diagnostic](../diagnostic.md) · Next: [Likert items](likert.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [15-minute diagnostic](../diagnostic.md) · Next: [Likert items](likert.md)
+<!-- /nav:top -->
 
 # Forced choice
 
@@ -137,4 +139,6 @@ Forced-choice sets feel different when there are dozens of them in a row and the
 
 ---
 
-<!-- nav:bottom -->← Previous: [15-minute diagnostic](../diagnostic.md) | Next: [Likert items](likert.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [15-minute diagnostic](../diagnostic.md) | Next: [Likert items](likert.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->
