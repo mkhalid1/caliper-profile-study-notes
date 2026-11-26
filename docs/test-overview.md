@@ -62,7 +62,7 @@ Caliper's FAQ lists these languages: Arabic, Bahasa Indonesian, Simplified Chine
 
 ## Practise the format
 
-The personality sections reward honest, consistent answers, not preparation. What practice does help with is familiarity: knowing how a "most and least" set feels, what the scale means, and what kinds of reasoning puzzles appear. Take the [15-minute diagnostic](diagnostic.md), or try the [free Caliper Profile practice test on PrepClubs](https://prepclubs.com/free-practice-tests/caliper-profile?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=caliper-profile), which gives feedback on every answer.
+The personality sections reward honest, consistent answers, not preparation. What practice does help with is familiarity: knowing how a "most and least" set feels, what the scale means, and what kinds of reasoning puzzles appear. Take the [15-minute diagnostic](diagnostic.md), or try the [free Caliper Profile practice test on PrepClubs](https://prepclubs.com/free-practice-tests/caliper-profile?utm_source=github&utm_medium=referral&utm_campaign=56kub3&utm_content=caliper-profile), which gives feedback on every answer.
 
 ---
 

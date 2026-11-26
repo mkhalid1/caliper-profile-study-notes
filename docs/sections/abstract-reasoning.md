@@ -120,11 +120,11 @@ A) ●○○     B) ○●○     C) ○○●     D) ●●○
 
 Practice scores are a guide to where to work, not a prediction of your Caliper result. Talogy does not publish how raw answers convert to the Abstract Reasoning percentile.
 
-Want more? The free timed Caliper Profile practice test on PrepClubs has the full 98 questions, scored by section: [prepclubs.com/free-practice-tests/caliper-profile](https://prepclubs.com/free-practice-tests/caliper-profile?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=caliper-profile)
+Want more? The free timed Caliper Profile practice test on PrepClubs has the full 98 questions, scored by section: [prepclubs.com/free-practice-tests/caliper-profile](https://prepclubs.com/free-practice-tests/caliper-profile?utm_source=github&utm_medium=referral&utm_campaign=56kub3&utm_content=caliper-profile)
 
 ## Next step
 
-Try reasoning items after a long block of personality questions, the way they feel on the day, with the [free Caliper Profile practice test on PrepClubs](https://prepclubs.com/free-practice-tests/caliper-profile?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=caliper-profile). Then see how Abstract Reasoning fits with the other traits in the [traits guide](../traits.md).
+Try reasoning items after a long block of personality questions, the way they feel on the day, with the [free Caliper Profile practice test on PrepClubs](https://prepclubs.com/free-practice-tests/caliper-profile?utm_source=github&utm_medium=referral&utm_campaign=56kub3&utm_content=caliper-profile). Then see how Abstract Reasoning fits with the other traits in the [traits guide](../traits.md).
 
 ---
 

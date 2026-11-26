@@ -133,7 +133,7 @@ A) Thoroughness  B) Level-Headedness  C) Abstract Reasoning  D) Idea Orientation
 
 Knowing the traits is for understanding your report, not for steering your answers. The personality items still have no right answers.
 
-Want more? The free timed Caliper Profile practice test on PrepClubs has the full 98 questions, scored by section: [prepclubs.com/free-practice-tests/caliper-profile](https://prepclubs.com/free-practice-tests/caliper-profile?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=caliper-profile)
+Want more? The free timed Caliper Profile practice test on PrepClubs has the full 98 questions, scored by section: [prepclubs.com/free-practice-tests/caliper-profile](https://prepclubs.com/free-practice-tests/caliper-profile?utm_source=github&utm_medium=referral&utm_campaign=56kub3&utm_content=caliper-profile)
 
 ---
 

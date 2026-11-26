@@ -97,11 +97,11 @@ Later he sees: *"Networking events give me energy."*
 
 These are worked examples, not a personality score. On the real Caliper Profile there are no right answers to the personality items.
 
-Want more? The free timed Caliper Profile practice test on PrepClubs has the full 98 questions, scored by section: [prepclubs.com/free-practice-tests/caliper-profile](https://prepclubs.com/free-practice-tests/caliper-profile?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=caliper-profile)
+Want more? The free timed Caliper Profile practice test on PrepClubs has the full 98 questions, scored by section: [prepclubs.com/free-practice-tests/caliper-profile](https://prepclubs.com/free-practice-tests/caliper-profile?utm_source=github&utm_medium=referral&utm_campaign=56kub3&utm_content=caliper-profile)
 
 ## Next step
 
-Rating dozens of statements in a row is tiring, which is when frames drift and negatives get missed. Try a longer run with feedback on the [free Caliper Profile practice test on PrepClubs](https://prepclubs.com/free-practice-tests/caliper-profile?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=caliper-profile), then move on to [abstract reasoning](abstract-reasoning.md).
+Rating dozens of statements in a row is tiring, which is when frames drift and negatives get missed. Try a longer run with feedback on the [free Caliper Profile practice test on PrepClubs](https://prepclubs.com/free-practice-tests/caliper-profile?utm_source=github&utm_medium=referral&utm_campaign=56kub3&utm_content=caliper-profile), then move on to [abstract reasoning](abstract-reasoning.md).
 
 ---
 

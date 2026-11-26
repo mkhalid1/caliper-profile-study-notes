@@ -131,11 +131,11 @@ For items 1 to 3 the first letter is "most like", the second "least like". Count
 
 These are worked examples, not a personality score. On the real Caliper Profile there are no right answers to the personality items.
 
-Want more? The free timed Caliper Profile practice test on PrepClubs has the full 98 questions, scored by section: [prepclubs.com/free-practice-tests/caliper-profile](https://prepclubs.com/free-practice-tests/caliper-profile?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=caliper-profile)
+Want more? The free timed Caliper Profile practice test on PrepClubs has the full 98 questions, scored by section: [prepclubs.com/free-practice-tests/caliper-profile](https://prepclubs.com/free-practice-tests/caliper-profile?utm_source=github&utm_medium=referral&utm_campaign=56kub3&utm_content=caliper-profile)
 
 ## Next step
 
-Forced-choice sets feel different when there are dozens of them in a row and the person described is you. Try a run with feedback on the [free Caliper Profile practice test on PrepClubs](https://prepclubs.com/free-practice-tests/caliper-profile?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=caliper-profile), then read the [traits guide](../traits.md) to see what your choices feed into.
+Forced-choice sets feel different when there are dozens of them in a row and the person described is you. Try a run with feedback on the [free Caliper Profile practice test on PrepClubs](https://prepclubs.com/free-practice-tests/caliper-profile?utm_source=github&utm_medium=referral&utm_campaign=56kub3&utm_content=caliper-profile), then read the [traits guide](../traits.md) to see what your choices feed into.
 
 ---
 

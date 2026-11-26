@@ -14,7 +14,7 @@ These items are original, written for these notes. They are not taken from the C
 2. Check your answers and read every explanation. That takes another 3 to 5 minutes.
 3. Use the table at the bottom to choose where to start.
 
-If you already know how the formats work, the [free Caliper Profile practice test on PrepClubs](https://prepclubs.com/free-practice-tests/caliper-profile?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=caliper-profile) gives you a longer run with feedback on every answer.
+If you already know how the formats work, the [free Caliper Profile practice test on PrepClubs](https://prepclubs.com/free-practice-tests/caliper-profile?utm_source=github&utm_medium=referral&utm_campaign=56kub3&utm_content=caliper-profile) gives you a longer run with feedback on every answer.
 
 ## Part A: Forced choice
 

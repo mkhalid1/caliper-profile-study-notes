@@ -2,7 +2,7 @@
 
 A free, complete guide to the Caliper Profile (now Talogy Caliper): how the 98-question, untimed assessment works, how to answer its forced-choice and Likert items honestly and consistently, a clear method for the abstract reasoning section, all 22 traits explained, how the 1 to 99 job-fit score is read, and plans for a week or a weekend. Includes 26 original practice items and worked examples with full explanations, and a page for sales candidates, the audience Caliper was first built for. Facts about the assessment come only from Caliper's and Talogy's own pages, each one [cited](docs/sources.md).
 
-Want to try the format first? Take the [free Caliper Profile practice test on PrepClubs](https://prepclubs.com/free-practice-tests/caliper-profile?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=caliper-profile), which gives feedback on every answer, or the shorter [15-minute diagnostic](docs/diagnostic.md) in this repo.
+Want to try the format first? Take the [free Caliper Profile practice test on PrepClubs](https://prepclubs.com/free-practice-tests/caliper-profile?utm_source=github&utm_medium=referral&utm_campaign=56kub3&utm_content=caliper-profile), which gives feedback on every answer, or the shorter [15-minute diagnostic](docs/diagnostic.md) in this repo.
 
 ## Start here
 
@@ -158,7 +158,7 @@ Every guide has the same parts: what it measures, how the questions look, a step
 - **Know what each section is for.** The reasoning items train a real skill with right answers. The personality worked examples teach the format and how to answer consistently; on the real test, the right answer is whatever is true of you.
 - **Test yourself honestly.** Answers are hidden under "Answers and explanations". Commit to an answer before you open them.
 - **Pick your frame.** "Me at work, on a typical week." Use it for every personality item, here and on the day.
-- **Practise a long run.** An hour of questions is tiring. A longer practice, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/caliper-profile?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=caliper-profile), shows you when your attention starts to drift.
+- **Practise a long run.** An hour of questions is tiring. A longer practice, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/caliper-profile?utm_source=github&utm_medium=referral&utm_campaign=56kub3&utm_content=caliper-profile), shows you when your attention starts to drift.
 - **Clone or fork it** if you want to annotate your own copy. The structure also works as a GitBook space: see [SUMMARY.md](SUMMARY.md).
 
 ## About the practice items

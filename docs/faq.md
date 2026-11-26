@@ -72,7 +72,7 @@ Caliper says the profile was developed in line with US Department of Labor best 
 
 ## Where can I practise for free?
 
-The [worked examples and practice items in this repo](sections/forced-choice.md#practice-items), and the [free Caliper Profile practice test on PrepClubs](https://prepclubs.com/free-practice-tests/caliper-profile?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=caliper-profile), which gives feedback on every answer.
+The [worked examples and practice items in this repo](sections/forced-choice.md#practice-items), and the [free Caliper Profile practice test on PrepClubs](https://prepclubs.com/free-practice-tests/caliper-profile?utm_source=github&utm_medium=referral&utm_campaign=56kub3&utm_content=caliper-profile), which gives feedback on every answer.
 
 ---
 

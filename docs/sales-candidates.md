@@ -43,7 +43,7 @@ These are reasonable questions to ask before or after you take the profile:
 
 ## Practise before you take it
 
-Get familiar with the formats in the [forced-choice](sections/forced-choice.md) and [Likert](sections/likert.md) guides, then try a longer run with feedback on the [free Caliper Profile practice test on PrepClubs](https://prepclubs.com/free-practice-tests/caliper-profile?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=caliper-profile).
+Get familiar with the formats in the [forced-choice](sections/forced-choice.md) and [Likert](sections/likert.md) guides, then try a longer run with feedback on the [free Caliper Profile practice test on PrepClubs](https://prepclubs.com/free-practice-tests/caliper-profile?utm_source=github&utm_medium=referral&utm_campaign=56kub3&utm_content=caliper-profile).
 
 ---
 

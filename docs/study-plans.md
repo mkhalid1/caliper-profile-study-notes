@@ -19,7 +19,7 @@ About 20 to 40 minutes a day.
 | 3 | Likert items | Read the [Likert guide](sections/likert.md) and do its examples. Note which trap caught you: negatives, the middle point or drifting frames. |
 | 4 | Abstract reasoning | Read the [abstract reasoning guide](sections/abstract-reasoning.md). Do the 5 items, then learn the number-pattern checklist. |
 | 5 | The traits and the report | Read the [traits guide](traits.md) and [How scoring works](scoring.md). Do the trait items. This is for understanding, not for steering your answers. |
-| 6 | Full practice run | Take a longer practice run, such as the [free Caliper Profile practice test on PrepClubs](https://prepclubs.com/free-practice-tests/caliper-profile?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=caliper-profile), in one sitting. Notice when you start to tire and your answers get careless. |
+| 6 | Full practice run | Take a longer practice run, such as the [free Caliper Profile practice test on PrepClubs](https://prepclubs.com/free-practice-tests/caliper-profile?utm_source=github&utm_medium=referral&utm_campaign=56kub3&utm_content=caliper-profile), in one sitting. Notice when you start to tire and your answers get careless. |
 | 7 | Rest and plan the session | Redo any reasoning items you missed. Read the [test-day checklist](test-day-checklist.md) and book a quiet 75-minute slot. |
 
 ### How to review
